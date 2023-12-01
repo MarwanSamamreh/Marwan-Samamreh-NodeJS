@@ -1,0 +1,9 @@
+{
+  "files": [
+    "files/%3A%2@",
+    "files/file1.txt",
+    "files/file2.txt",
+    "files/file3.txt",
+    "files/??"
+  ]
+}
